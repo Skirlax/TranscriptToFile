@@ -1,4 +1,3 @@
-from turtle import width
 from youtube_transcript_api import YouTubeTranscriptApi
 import tkinter as tk
 
